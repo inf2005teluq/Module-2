@@ -1,8 +1,10 @@
 // Programme en C++
-include <iostream.h>
-include <iomanip.h>
+#include <iostream>
+#include <iomanip>
+// pour Linux pour Windows ajoutez le .h
+using namespace std ;
 // initialisation des variablesint 
-main() 
+int main() 
 {
 int somme =0;
 int test =1;
