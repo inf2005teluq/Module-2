@@ -1,6 +1,7 @@
 // Mon premier programme en C++
-#include <iostream>using namespace std;
-main()
+#include <iostream>
+using namespace std;
+int main()
 {
   cout << "Bienvenue au cours Programmer en C++"<< endl;
   return 0; 
